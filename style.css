@@ -1,0 +1,18 @@
+body{background: #15616d ; color: #e5e5e5; }
+.body{text-align: center;}
+.logo{font-size: 80px;font-weight: 500px;padding: 20px 30px;margin: 10px 15px; text-align: center; }
+#analysis{color: #e5e5e5 ; }
+#main{color: #f7c59f;}
+.links{display: flex; }
+.links div{padding: 20px 150px;margin: 8px 10px; background: #fca311;
+border-radius: 20px;}
+.subheading{padding: 20px 30px;text-transform: uppercase; color: #f7c59f;text-decoration: underline;}
+.heading4{padding: 5px 10px;}
+.paragraph{padding: 2px 3px;}
+a:link,a:visited{color: #e5e5e5; }
+a:hover,a:active{color: #f00; }
+img{max-width: 1000px; float: left; margin-bottom: 25px;}
+.img-clear{clear: both;}
+form{text-align: center;box-shadow:5px 10px 20px rgba(0,0,0, 0.5);}
+table{padding: 20px 30px; border: 5px solid #e5e5e5; margin: 10px 15px;}
+textarea{padding: 20px 30px; border: 5px solid #e5e5e5; margin: 10px 15px;}
